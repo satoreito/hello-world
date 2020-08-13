@@ -1,1 +1,1 @@
-hello-worldを表示する。
+hello-world!
